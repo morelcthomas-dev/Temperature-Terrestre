@@ -91,14 +91,6 @@ Le projet combine des données issues de la **NASA (GISS Surface Temperature Ana
 
 ---
 
-## 🎯 Project Outcomes
-
-- ✅ Confirmation du **réchauffement climatique global**  
-- 🌎 Mise en évidence d’un **déséquilibre entre hémisphères**, le nord étant plus impacté  
-- 🔥 Corrélation claire entre **croissance des émissions** et **hausse de température**  
-
----
-
 ## 🔍 Liens avec les événements historiques
 
 - ⚙️ **Révolution industrielle (XIXe siècle)** → forte hausse du CO₂  
@@ -109,11 +101,41 @@ Le projet combine des données issues de la **NASA (GISS Surface Temperature Ana
 
 ---
 
-## 🧩 Technologies et sources utilisées 
+## 📊 Données utilisées
+- **NOAA / NASA** – Données historiques de température terrestre (≈150 ans)
+- **Our World in Data** – Émissions de CO₂ et gaz à effet de serre par pays
 
-- **Power BI Desktop**  
-- **NASA GISS Surface Temperature Analysis (NOAA)**  
-- **Our World in Data – CO₂ & GHG Emissions Dataset**
+---
+
+## 🛠️ Outils & technologies
+- **Python** : Pandas, Matplotlib, Seaborn  
+- **SQL** : requêtes d’analyse et agrégations  
+- **Power BI** : dashboards interactifs, modélisation, DAX  
+
+---
+
+## 🔍 Méthodologie
+- Nettoyage et préparation des données (valeurs manquantes, sélection des variables pertinentes)
+- Analyse exploratoire des données et identification de tendances long terme
+- Étude des corrélations entre températures et émissions anthropiques
+- Création de visualisations interactives sous Power BI
+- Travail collaboratif en équipe de 3 personnes
+
+---
+
+## 📈 Résultats clés
+- Mise en évidence d’une **augmentation significative des températures moyennes** sur le long terme  
+- Visualisation des différences régionales et temporelles  
+- Corrélation observable entre **activité humaine** et **réchauffement climatique**  
+- Dashboards permettant une lecture synthétique et pédagogique des données
+
+---
+
+## 🧑‍💻 Mon rôle dans le projet
+- Coordination du travail d’équipe (organisation et répartition des tâches)
+- Participation active au **nettoyage des données**
+- Contribution à la **création des visualisations Power BI**
+- Analyse et interprétation des résultats
 
 ---
 
